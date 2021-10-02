@@ -1,0 +1,27 @@
+body {
+    font-family: 'Koh Santepheap', serif;
+    color: #13D4FF;
+}
+
+h1 {
+    color: #000000;
+}
+
+img {
+    width: auto;
+    height: 100px;
+    text-align: left;
+}
+
+figcaption {
+    font-size: .85em;
+}
+
+p.description {
+    margin: 20px 0px 20px 0px;
+    text-align: justify;
+}
+
+div.review {
+    background-color: #ffffff;
+}
